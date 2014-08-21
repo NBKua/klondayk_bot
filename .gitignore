@@ -3,7 +3,13 @@ __pycache__/
 *.py[cod]
 settings.ini
 *.pyc
-sig
+sig/
+dirstate.txt
+stats.txt
+event.txt
+items.txt
+error_log.txt
+
 # C extensions
 *.so
 
